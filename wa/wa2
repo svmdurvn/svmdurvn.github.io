@@ -1,4 +1,4 @@
- <!DOCTYPE html>
+<!DOCTYPE html>
 <html>
     <head>
         <meta charset="utf-8">
@@ -7,15 +7,18 @@
     <body>
         <h1 style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;">Hi I'm Sam</h1>
         <h2 style="background-color: plum;"
+        
+    <img src="../img/me.jpg" width="25%" height="auto">
 
-    <img src="../img/me.jpg" width="25%" height="auto"> 
-
+    <p> 
+        Here is a photo of me in one of my favorite places, Long Beach Island, New Jersey.
+    </p>
     <ul>
         <li> One of my goals this semester for web is to become more comfortable
-            with using html on a daily basis </li>
+            with using HTML on a daily basis </li>
         <li> Another goal of mine this semester is to reconfigure my portfolio
-            website using html as the software I currently use for it is very amatuer</lI>
-        <li> Lastly, my final goal is to add creating websites using html to my toolbox
+            website using HTML as the software I currently use for it is very amatuer</lI>
+        <li> Lastly, my final goal is to add creating websites using HTML to my toolbox
             of things I have to offer in my career of design </li>
     <p>
         I love to skateboard, surf, and snowboard. I am very passionate about pursuing
@@ -26,7 +29,8 @@
     </p>
 
     <p> 
-        Here is a photo of me in one of my favorite places, Long Beach Island, New Jersey.
+        Here is a live set of my favorite techno DJ, Artbat 
     </p>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/dhUrv9l-E1o?si=VARPJkjOH26jde9a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     </body>
 </html>
