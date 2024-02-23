@@ -1,0 +1,50 @@
+body {
+    background: url(xgamesPic.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+}
+
+article {
+    padding: 0 2em 0 2em;
+    margin: 0;
+}
+
+.overlay {
+    width: 25%;
+    height: 5%;
+    margin: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 0.7em solid #007FFF;
+    box-shadow: 7px 3px black;
+    color: white;
+    background-color: black;
+}
+
+#event {
+    position: absolute;
+    bottom: 5%;
+    left: 5%;
+    background-color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 5%;
+    border-width: 10em;
+    border-color: #1E90FF;
+    width: 30%;
+    height: fit-content;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 12px 5px black;
+}
+
+#event h1 {
+    background-color: #1E90FF;
+}
+
+#event h2 {
+    color: #1E90FF;
+}
